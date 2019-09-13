@@ -1,2 +1,3 @@
 # Tarea0_ML
-tarea
+Lucas Díaz Aravena 
+Francisco Andrades Martínez
